@@ -1,0 +1,7 @@
+@media (max-width: 767px)   {
+
+#face{
+    font-size: 300%;
+    transition: 1s;
+}
+}
